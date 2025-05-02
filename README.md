@@ -189,17 +189,11 @@ NVM for Windows comes with an installer, courtesy of a byproduct of my work on [
 Overall, this project brings together some ideas, a few battle-hardened pieces of other modules, and support for newer versions of node.
 
 NVM for Windows recognizes the "latest" versions using a [list](https://nodejs.org/download/release/index.json) provided by the Node project. Version 1.1.1+ use this list. Before this list existed, I was scraping releases and serving it as a standalone [data feed](https://github.com/coreybutler/nodedistro). This list was used in versions 1.1.0 and prior, but is now deprecated.
+Thanks
 
 ## Motivation
 
 I needed it, plain and simple. Additionally, it's apparent that [support for multiple versions](https://github.com/nodejs/node-v0.x-archive/issues/8075) is not coming to node core. It was also an excuse to play with Go.
-
-## Why Go? Why not Node?
-
-I chose Go because it is cross-platform, felt like less overhead than Java, has been around longer than most people think. Plus, I wanted to experiment with it. I've been asked why I didn't write it with Node. Trying to write a tool with the tool you're trying to install doesn't make sense to me. As a result, my project requirements for this were simple... something that's not Node. Node will continue to evolve and change. If you need a reminder of that, remember io.js, Ayo, all the breaking changes between 4.x.x and 6.x.x, and the shift to ES Modules in 12+. Change is inevitable in the world of software. JavaScript is extremely dynamic.
-
-## :pray: Thanks
-
 Thanks to everyone who has submitted issues on and off Github, made suggestions, and generally helped make this a better project. Special thanks to
 
 - [@vkbansal](https://github.com/vkbansal), who provided significant early feedback throughout the early releases.
