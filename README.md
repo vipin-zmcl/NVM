@@ -2,6 +2,12 @@
 <br/><br/>
 <h1 align="center">NVM for Windows/Linux</h1>
 
+###
+
+<img src="https://raw.githubusercontent.com/vipin-zmcl/vipin-zmcl/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   The <a href="https://docs.microsoft.com/en-us/windows/nodejs/setup-on-windows">Microsoft</a>/<a href="https://docs.npmjs.com/cli/v9/configuring-npm/install#windows-node-version-managers">npm</a>/<a href="https://cloud.google.com/nodejs/docs/setup#installing_nvm">Google</a> recommended Node.js version manager for <em>Windows</em>.<br/>
 
