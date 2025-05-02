@@ -16,33 +16,13 @@ _The original [nvm](https://github.com/nvm-sh/nvm) is a completely separate proj
 
 <h5 align="center">Sponsors</h5>
 
-<div align="center">
-  <table cellpadding="5" cellspacing="0" border="0" align="center">
-    <tr>
-      <td><a href="https://metadoc.io"><img src="https://github.com/coreybutler/staticassets/raw/master/sponsors/metadoclogobig.png" width="200px"/></a></td>
-      <td><a href="https://enabledb.com"><img src="https://github.com/coreybutler/staticassets/raw/master/images/logos/logo_enabledb_w_text.png" width="200px"/></a></td>
-      <td><a href="https://butlerlogic.com"><img src="https://github.com/coreybutler/staticassets/raw/master/sponsors/butlerlogic_logo.png" width="200px"/></a></td>
-      <td width="25%" align="center"><a href="https://github.com/microsoft"><img src="https://user-images.githubusercontent.com/770982/195955265-5c3dca78-7140-4ec6-b05a-f308518643ee.png" height="30px"/></a></td>
-    </tr>
-    <tr>
-      <td colspan="4" align="center">
-        <a href="https://github.com/sponsors/coreybutler"><img src="https://img.shields.io/github/sponsors/coreybutler?label=Individual%20Sponsors&logo=github&style=social"/></a>
-        &nbsp;<a href="https://github.com/sponsors/coreybutler"><img src="https://img.shields.io/badge/-Become%20a%20Sponsor-yellow"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="4" align="center">
-        <img src="https://github.blog/wp-content/uploads/2020/09/github-stars-logo_Color.png" width="50"/><br/>
-        <b>Can't sponsor?</b><br/>Consider <a href="https://stars.github.com/nominate/" target="_blank">nominating @coreybutler for a Github star</a>.
-      </td>
-    </tr>
-  </table>
-</div>
-<br/>
 
-<div align="center"><b>Running into issues?</b> See the <a href="https://github.com/coreybutler/nvm-windows/wiki/Common-Issues">common issues wiki</a>.</div>
+<div align="center"><b>Running into issues?</b></div>
 
 <br/>
+
+See the <a href="https://github.com/coreybutler/nvm-windows/wiki/Common-Issues">common issues wiki</a>.
+
 <table style="background-color:red;padding:6px;border-radius:3px;">
   <tr><td>
     <h3>Seeking Feedback:</h3>
